@@ -13,7 +13,7 @@ An end-to-end enterprise supply chain analytics project built on the **DataCo Gl
 
 ![Supply Chain Dashboard](docs/dashboard_preview.png)
 ![Dashboard Preview](docsdashboard_preview.png)
-[Download Full PDF Dashboard](docs/Supply_Chain_Dashboard.pdf)
+[Download Full PDF Dashboard](Supply_Chain_Dashboard.pdf)
 
 ---
 
